@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="ui">UI</string>
+    <string name="service">Service</string>
+</resources>
