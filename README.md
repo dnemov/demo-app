@@ -3,5 +3,5 @@
 Demo contains:
 * AppCompat support libraries: Suppoprt Design, RecyclerView
 * Basic usage of realm.io RecyclerView adapter 
-* Android databinding in the recycleview item
+* Android databinding in the RecyclerView item
 * Bound service with interprocess communication (IPC)
